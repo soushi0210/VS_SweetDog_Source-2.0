@@ -49,6 +49,7 @@ class MainMenuState extends MusicBeatState
 
 	override function create()
 	{
+		FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
 		#if MODS_ALLOWED
 		Paths.pushGlobalMods();
 		#end
