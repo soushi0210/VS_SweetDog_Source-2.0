@@ -1,0 +1,50 @@
+{
+	"storyName": "Bonus",
+	"difficulties": "Hard,Lunatic",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"guns",
+			"sweet_dog",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"hairball",
+			"sweet_dogsoft",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Confronting-Yourself",
+			"sonicexe",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

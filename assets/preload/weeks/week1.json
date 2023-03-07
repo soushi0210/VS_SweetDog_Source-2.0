@@ -1,0 +1,50 @@
+{
+	"storyName": "VS SweetDog",
+	"difficulties": "Hard,Lunatic",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Multiplayer",
+			"sweet_dog",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Emotions",
+			"sweet_dog",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Retrogame-Fan",
+			"sweet_dog",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week1",
+	"hiddenUntilUnlocked": false
+}

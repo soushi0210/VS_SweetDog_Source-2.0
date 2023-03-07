@@ -1,2 +1,5 @@
-week1sd
-confrontingweek
+tutorial
+week1
+week2
+week3
+bonus
